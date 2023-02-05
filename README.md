@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hola amigos, mi nombre es Javi Sierra, 👋
+### Tengo 53 años y sigo aprendiendo
 
-<!--
+>La edad no te limita, pero la falta de aprendizaje sí
+
 **Jack-Strafer/Jack-Strafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
